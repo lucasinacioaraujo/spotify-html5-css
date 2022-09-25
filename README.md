@@ -6,5 +6,5 @@
 - HTML
 - CSS
 
-### Acesse o projeto: <a href=https://lucasinacioaraujo.github.io/spotify-html5-css/>Clique aqui<a/> para ver funcionando
+### Acesse o projeto: <a href=https://lucasinacioaraujo.github.io/spotify-html5-css/>Clique aqui<a/> para ver funcionando!
  
